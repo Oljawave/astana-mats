@@ -1,0 +1,50 @@
+.bor1 {
+    margin-right: 100px;
+}
+
+.section2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#have1 {
+    margin-left: 320px;
+    margin-right: 250px;
+}
+
+#card2 {
+    margin-right: 50px;
+}
+
+.bor1 {
+    margin-left: 0px;
+}
+
+.modal-dialog {
+    margin-top: 200px;
+}
+
+.form-check-input {
+    margin-left: 5px;
+}
+
+.icon-circle {
+    display: inline-block;
+    width: 6.25rem;
+    height: 6.25rem;
+    background: #d6dbde;
+    text-align: center;
+    border-radius: 50%;
+    padding: 1.1rem;
+}
+
+.ltext-104 {
+    margin-right: 340px;
+    font-size: 50px;
+}
+
+.advantage__item {
+    margin-left: 30px;
+}
